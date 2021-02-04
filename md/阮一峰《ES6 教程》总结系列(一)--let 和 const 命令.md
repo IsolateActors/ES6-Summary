@@ -87,7 +87,7 @@ ES2020 在语言标准的层面，引入 globalThis 作为顶层对象。也就�
 
 # 思维导图
 
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97e7e6ed83b644189137f9149c815048~tplv-k3u1fbpfcp-watermark.png)
+<img alt="" src="https://github.com/IsolateActors/ES6-Summary/blob/main/image/let%20%E5%92%8C%20const%20%E5%91%BD%E4%BB%A4.png" />
 
 > 参考来源：[阮一峰《ES6 教程》let 和 const 命令](https://wangdoc.com/es6/let.html)
 
