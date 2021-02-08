@@ -8,3 +8,6 @@
 
 - [字符串的扩展](https://github.com/IsolateActors/ES6-Summary/blob/main/md/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%89%A9%E5%B1%95.md)
 
+- [字符串的新增方法](https://github.com/IsolateActors/ES6-Summary/blob/main/md/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%96%B0%E5%A2%9E%E6%96%B9%E6%B3%95.md)
+
+
